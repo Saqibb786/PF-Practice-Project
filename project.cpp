@@ -38,7 +38,7 @@ int main()
 		bool again = true;
 		do
 		{
-			int option = 0; // For handling cases for
+			int option = 0; // For handling cases for user input
 			cout << "Press 1 to insert new test result.\n";
 			cout << "Press 2 to display total number of results in table.\n";
 			cout << "Press 3 to delete any test value from table.\n";
