@@ -20,7 +20,7 @@ int main()
 	cout << "Please enter number of feilds: ";
 	cin >> row; // No of fields
 	cout << "\nPlease enter no. of tests conducted for each feild: ";
-	cin >> col;
+	cin >> col; // No of tests
 	cout << endl;
 	if (row <= 0 || col <= 0)
 	{
