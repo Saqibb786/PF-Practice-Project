@@ -13,7 +13,6 @@ void cal_avg(int **, int);
 float cal_sum(int *, int, int &);
 void max_field(int **, int, int);
 
-
 int main()
 {
 	int row = 0, col = 0;
@@ -51,7 +50,7 @@ int main()
 			cin >> option;
 			cout << endl;
 
-			//using switch cases
+			// using switch cases
 			switch (option)
 			{
 			case 1:
