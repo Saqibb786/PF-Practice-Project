@@ -51,6 +51,7 @@ int main()
 			cin >> option;
 			cout << endl;
 
+			//using switch cases
 			switch (option)
 			{
 			case 1:
