@@ -18,7 +18,7 @@ int main()
 {
 	int row = 0, col = 0;
 	cout << "Please enter number of feilds: ";
-	cin >> row;
+	cin >> row; // No of fields
 	cout << "\nPlease enter no. of tests conducted for each feild: ";
 	cin >> col;
 	cout << endl;
