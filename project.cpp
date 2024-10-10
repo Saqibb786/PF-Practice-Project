@@ -13,7 +13,7 @@ void cal_avg(int **, int);
 float cal_sum(int *, int, int &);
 void max_field(int **, int, int);
 
-// main
+
 int main()
 {
 	int row = 0, col = 0;
